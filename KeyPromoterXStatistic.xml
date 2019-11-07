@@ -78,7 +78,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'mbp'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -111,6 +111,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>79</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'mbp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'mbp'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
