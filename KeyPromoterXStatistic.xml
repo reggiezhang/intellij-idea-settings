@@ -62,7 +62,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>593</Count>
+          <Count>595</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Export to Text File">
+        <Item>
+          <IdeaActionID>ExportToTextFile</IdeaActionID>
+          <ShortCut>'⌃O'</ShortCut>
+          <Description>Export to Text File</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -182,7 +190,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>497</Count>
+          <Count>498</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
