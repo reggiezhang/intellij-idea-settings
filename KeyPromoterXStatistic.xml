@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>642</Count>
+          <Count>644</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -103,6 +103,14 @@
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Detach Gradle project">
+        <Item>
+          <IdeaActionID>ExternalSystem.DetachProject</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Detach Gradle project</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -190,7 +198,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>34</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
