@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application (1)'">
@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Application (2)'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>806</Count>
+          <Count>807</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -255,6 +255,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Application (1)'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Application (2)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Application (2)'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application'">
@@ -414,7 +422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application (2)'</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -470,7 +478,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>351</Count>
+          <Count>353</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
