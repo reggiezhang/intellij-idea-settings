@@ -70,7 +70,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'Application (1)'</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application (2)'">
@@ -118,7 +118,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -302,7 +302,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>706</Count>
+          <Count>707</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -414,7 +414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application (1)'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application (2)'">
