@@ -398,7 +398,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1183</Count>
+          <Count>1188</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
