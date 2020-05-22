@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Change Signature...">
+        <Item>
+          <IdeaActionID>ChangeSignature</IdeaActionID>
+          <ShortCut>'⌘F6'</ShortCut>
+          <Description>Change Signature...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Collapse All">
         <Item>
           <IdeaActionID>ExternalSystem.CollapseAll</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>87</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application.main()'">
@@ -110,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>854</Count>
+          <Count>861</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -190,7 +198,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Generate...</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -246,7 +254,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application (1)'">
@@ -302,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>847</Count>
+          <Count>865</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -406,7 +414,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1420</Count>
+          <Count>1427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -438,7 +446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>55</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'mbp'">
@@ -486,7 +494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>411</Count>
+          <Count>415</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Migration...">
