@@ -94,7 +94,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>104</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application.main()'">
@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>960</Count>
+          <Count>964</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -126,7 +126,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -230,7 +230,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>49</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -254,7 +254,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>18</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application (1)'">
@@ -310,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>924</Count>
+          <Count>925</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -318,7 +318,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application (1)'">
@@ -334,7 +334,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>14</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application.main()'">
@@ -414,7 +414,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1478</Count>
+          <Count>1479</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -446,7 +446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>69</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'mbp'">
@@ -494,7 +494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>434</Count>
+          <Count>436</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Migration...">
