@@ -318,7 +318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>965</Count>
+          <Count>980</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -406,7 +406,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>235</Count>
+          <Count>238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -422,7 +422,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1569</Count>
+          <Count>1644</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -502,7 +502,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>448</Count>
+          <Count>453</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Migration...">
